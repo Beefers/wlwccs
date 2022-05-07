@@ -1,0 +1,15 @@
+{
+  "name": "waxed-lightly-weathered-cut-copper-stairs",
+  "version": "1.0.0",
+  "description": "A Minecraft => Discord bridge",
+  "type": "module",
+  "main": "src/index.js",
+  "author": "Beef",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "minecraft-data": "^3.1.1",
+    "mineflayer": "^4.3.0",
+    "prismarine-registry": "^1.2.0"
+  }
+}
